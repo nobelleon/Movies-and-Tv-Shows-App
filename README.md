@@ -2,6 +2,7 @@
 
 Movies & Tv Shows App Made in Flutter.
 
+![Movies TvShows-horz](https://user-images.githubusercontent.com/76748114/213973341-87715e79-23c8-4288-8bc6-696a081a468e.jpg)
 
 ## Features
 
