@@ -1,5 +1,7 @@
 # Flutter - Movies & Tv Shows App
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nobelleon&label=Profile%20views&color=0e75b6&style=flat" alt="nobelleon" /> </p>
+
 Movies & Tv Shows App Made in Flutter.
 
 ![Movies TvShows-horz](https://user-images.githubusercontent.com/76748114/213973341-87715e79-23c8-4288-8bc6-696a081a468e.jpg)
