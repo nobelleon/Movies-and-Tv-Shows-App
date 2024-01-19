@@ -6,6 +6,8 @@ Movies & Tv Shows App Made in Flutter.
 
 ![Movies TvShows-horz](https://user-images.githubusercontent.com/76748114/213973341-87715e79-23c8-4288-8bc6-696a081a468e.jpg)
 
+and this is my --> [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7019896249327788032/?originTrackingId=BYJ%2FwqJtRRyuQIhYqSc0Yg%3D%3D) Demo Movies & Tv Shows App.
+
 ## Features
 
 - Get movies from TMDb JSON API
